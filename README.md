@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm%20KyungHyun&fontSize=90" />
 
 ## 👋 I want to be a Back-end Developer <br>
-
+<br>
 
 ## ⚒️ Skills ⚒️ <br>
 
@@ -14,3 +14,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimKyungHyunn&layout=compact)](https://github.com/KimKyungHyunn/github-readme-stats)
 
 <br>
+
+![KimKyungHyunn's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimKyungHyunn&show_icons=true&theme=cobalt) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdkin00)](https://solved.ac/kdkin00)
