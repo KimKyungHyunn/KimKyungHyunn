@@ -15,4 +15,5 @@
 
 <br>
 
-![KimKyungHyunn's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimKyungHyunn&show_icons=true&theme=cobalt) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdkin00)](https://solved.ac/kdkin00)
+![KimKyungHyunn's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimKyungHyunn&show_icons=true&theme=cobalt) <br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdkin00)](https://solved.ac/kdkin00)
